@@ -7,7 +7,7 @@ namespace Zaj1
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("testing 111");
+            //komentarz kolego
         }
     }
 }
